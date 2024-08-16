@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Opine](https://github.com/orgs/Opine-official/repositories)
 
-- 📝 I rarely write articles on [https://blog.aravindsanjeev.com/](https://blog.aravindsanjeev.com/)
+- 📝 I rarely write articles on [https://blog.aravindsanjeev.com/](https://dev.aravindsanjeev.com/)
 
 - 💬 Ask me about **React, TypeScript, JavaScript, Nodejs, Microservices, Message brokers, MongoDB, MySQL**
 
