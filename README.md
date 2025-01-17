@@ -11,5 +11,5 @@
 
 - 📫 How to reach me **saravind436@gmail.com**
 
-- 📄 Usually the beest place to know more about me is my [personal site](https://www.aravindsanjeev.com/)
+- 📄 Usually the best place to know more about me is my [personal site](https://www.aravindsanjeev.com/)
 
